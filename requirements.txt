@@ -1,0 +1,6 @@
+notebook
+graphviz
+numpy
+matplotlib
+ipython
+
