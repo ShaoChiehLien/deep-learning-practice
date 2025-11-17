@@ -1,6 +1,10 @@
-notebook
 graphviz
-numpy
-matplotlib
 ipython
-
+matplotlib
+notebook
+numpy
+pandas
+scikit-learn
+scipy
+torch
+torchvision
